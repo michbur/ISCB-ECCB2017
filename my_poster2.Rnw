@@ -95,7 +95,7 @@ library(biogram)
 
 %Computational and experimental validation of amyloid databases
 %Problems with annotation and computational prediction of peptide amyloidogenicity
-\title{\huge Computational and experimental validation of amyloid databases}
+\title{\LARGE Problems with annotation and computational prediction of peptide amyloidogenicity}
 
 \begin{frame}
 \begin{columns}
